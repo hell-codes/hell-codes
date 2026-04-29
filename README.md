@@ -1,28 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,25:1a0030,55:2d0050,80:420080,100:5500a8&height=320&section=header&text=Prabin%20Yadav&fontSize=78&fontColor=e879f9&fontAlignY=42&desc=Student%20Developer%20%E2%80%A2%20Web%20Builder%20%E2%80%A2%20Cybersecurity%20Explorer&descAlignY=64&descSize=16&descColor=c084fc&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000408,15:020c1a,40:051830,70:082040,100:0a2850&height=340&section=header&text=Prabin%20Yadav&fontSize=86&fontColor=60a5fa&fontAlignY=40&desc=Student%20Developer%20%E2%80%94%20B.Tech%20CSE%20%40%20Amrita%20Vishwa%20Vidyapeetham&descAlignY=62&descSize=17&descColor=93c5fd&animation=twinkling" />
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/◈_LIVE-prabinyadav.dev-e879f9?style=for-the-badge&labelColor=0d0015)](https://prabinyadav.dev)
+<a href="https://prabinyadav.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-prabinyadav.github.io-60a5fa?style=for-the-badge&labelColor=000408" /></a>
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-hell--codes-c084fc?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0d0015)](https://github.com/hell-codes)
+<a href="https://github.com/prabinyadav"><img src="https://img.shields.io/badge/GitHub-prabinyadav-34d399?style=for-the-badge&logo=github&logoColor=34d399&labelColor=000408" /></a>
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prabinyadav-818cf8?style=for-the-badge&logo=linkedin&logoColor=818cf8&labelColor=0d0015)](https://linkedin.com/in/prabinyadav)
+<a href="https://linkedin.com/in/prabinyadav"><img src="https://img.shields.io/badge/LinkedIn-prabinyadav-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=0ea5e9&labelColor=000408" /></a>
 &nbsp;
-[![Stars](https://img.shields.io/github/stars/hell-codes?style=for-the-badge&color=f472b6&labelColor=0d0015&logo=starship&label=★)](https://github.com/hell-codes)
+<a href="mailto:prabin.yadav.0.0.18@gmail.com"><img src="https://img.shields.io/badge/Email-prabin.yadav-f472b6?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=000408" /></a>
+
+<br/><br/>
+
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&lines=Hey+%F0%9F%91%8B+I'm+Prabin+Yadav;1st+Year+CSE+%40+Amrita+Vishwa+Vidyapeetham;Passionate+about+building+real-world+tech;Turning+ideas+into+real+digital+experiences;%22I+don%27t+follow+paths+%E2%80%94+I+create+systems.%22)](https://prabinyadav.github.io)
 
 <br/>
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2500&pause=900&color=E879F9&center=true&vCenter=true&width=720&lines=Prabin+Yadav+%E2%80%94+1st+Year+CSE+%40+Amrita+%F0%9F%8E%93;prabinyadav.dev+%E2%80%94+7+canvas+animations+%2B+Firebase+backend;HTML+%C2%B7+CSS+%C2%B7+Vanilla+JS+%E2%80%94+zero+frameworks%2C+everything+from+scratch;Exploring+Cybersecurity%2C+AI+%26+Full+Stack+Dev;%22I+don%27t+follow+paths+%E2%80%94+I+create+systems.%22+%E2%9A%A1)](https://github.com/hell-codes)
-
-<br/>
-
-[![Views](https://komarev.com/ghpvc/?username=hell-codes&color=e879f9&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/hell-codes)
+[![Views](https://komarev.com/ghpvc/?username=hell-codes&color=60a5fa&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/hell-codes)
 &nbsp;
-[![Followers](https://img.shields.io/github/followers/hell-codes?style=for-the-badge&color=c084fc&labelColor=0d0015&logo=github&label=Followers)](https://github.com/hell-codes?tab=followers)
+[![Followers](https://img.shields.io/github/followers/hell-codes?style=for-the-badge&color=34d399&labelColor=000408&logo=github&label=Followers)](https://github.com/hell-codes?tab=followers)
+&nbsp;
+[![Stars](https://img.shields.io/github/stars/hell-codes?style=for-the-badge&color=f472b6&labelColor=000408&logo=github&label=Stars)](https://github.com/hell-codes)
 
 </div>
 
@@ -32,59 +34,54 @@
 
 <br/>
 
-## ✦ &nbsp;Who Am I
+## ✦ &nbsp;About Me
 
 <br/>
 
 <table>
 <tr>
-<td width="53%" valign="top">
+<td width="54%" valign="top">
 
-```js
-const prabin = {
-  name:       "Prabin Yadav",
-  alias:      "hell-codes",
-  location:   "Chennai, India 🇮🇳",
-  university: "Amrita Vishwa Vidyapeetham",
-  degree:     "B.Tech CSE (2025 → 2029)",
-  year:       "1st Year",
+```yaml
+name:        Prabin Yadav
+alias:       hell-codes
+location:    Chennai, India 🇮🇳
+university:  Amrita Vishwa Vidyapeetham
+degree:      B.Tech — Computer Science
+year:        1st Year (2025 → 2029)
 
-  portfolio:  "prabinyadav.dev",
-  stack:      ["HTML","CSS","JS","Firebase"],
+portfolio:   prabinyadav.github.io
 
-  stats: {
-    projects:       "10+",
-    technologies:   "6+",
-    certifications: 4,
-  },
+stats:
+  projects_built:    10+
+  technologies:       6+
+  certifications:      4
 
-  skills: {
-    "HTML/CSS":   "90%",
-    JavaScript:   "78%",
-    Python:       "75%",
-    Java:         "70%",
-    SQL:          "65%",
-    "Git/GitHub": "72%",
-  },
+skills:
+  HTML_CSS:   90%
+  JavaScript: 78%
+  Python:     75%
+  Java:       70%
+  SQL:        65%
+  Git_GitHub: 72%
 
-  exploring: [
-    "Full Stack Web Development",
-    "Cybersecurity & Ethical Hacking",
-    "Artificial Intelligence & ML",
-  ],
+currently:
+  - Building modern web solutions
+  - Learning new technologies daily
+  - Turning ideas into real projects
 
-  motto: "I don't follow paths — I create systems.",
-};
+quote: >
+  "I don't follow paths — I create systems."
 ```
 
 </td>
-<td width="47%" valign="top">
+<td width="46%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hell-codes&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d0015&title_color=e879f9&icon_color=c084fc&text_color=c4b5fd&border_color=420080&ring_color=e879f9&hide_border=false" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=hell-codes&show_icons=true&count_private=true&include_all_commits=true&bg_color=000408&title_color=60a5fa&icon_color=34d399&text_color=93c5fd&border_color=0a2850&ring_color=818cf8&hide_border=false" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hell-codes&layout=compact&bg_color=0d0015&title_color=e879f9&text_color=c4b5fd&border_color=420080&hide_border=false&langs_count=6" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hell-codes&layout=compact&bg_color=000408&title_color=60a5fa&text_color=93c5fd&border_color=0a2850&hide_border=false&langs_count=6" width="100%" />
 
 </td>
 </tr>
@@ -106,21 +103,16 @@ const prabin = {
 
 <br/><br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0015)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d0015)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d0015)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0015)
-![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d0015)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0d0015)
-
-<br/>
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0d0015)
-![Canvas API](https://img.shields.io/badge/Canvas_API-e879f9?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0015)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d0015)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d0015)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0015)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d0015)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000408)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000408)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000408)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000408)
+![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000408)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=000408)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000408)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000408)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000408)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000408)
 
 </div>
 
@@ -130,43 +122,7 @@ const prabin = {
 
 <br/>
 
-## ✦ &nbsp;prabinyadav.dev — My Flagship Build
-
-<br/>
-
-> My portfolio is built entirely from scratch — no React, no Tailwind, no shortcuts. Every animation, every feature, every pixel is written in pure HTML, CSS, and Vanilla JavaScript.
-
-<br/>
-
-<div align="center">
-
-| | What's Inside |
-|:--:|:-------------|
-| 🌊 | **7 Canvas Animations** — Particle network · Hex grid pulse · Dual sine waves · Glowing orbs · Falling lines · Rising dots · Admin particle web |
-| ⚡ | **Zero Frameworks** — No React · No npm · No Tailwind · `open index.html` and it runs |
-| ☁️ | **Firebase Backend** — Firestore cloud database · Auth-protected admin dashboard · Featured projects system |
-| 🖱️ | **Custom UX** — Animated cursor with trailing ring · Scroll progress bar · Skill bars · Dark/light mode |
-| 🖼️ | **Image Compression** — Canvas→JPEG pipeline before Firestore upload. Solves the 1MB limit without any library |
-| 📱 | **Responsive** — Fixed floating hamburger · Dropdown nav · `clamp()` typography · Adaptive canvas on mobile |
-| 📊 | **Skills** — HTML/CSS 90% · JS 78% · Python 75% · Java 70% · SQL 65% · Git 72% |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-**🌐 Live at → [prabinyadav.dev](https://prabinyadav.dev)**
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-<br/>
-
-## ✦ &nbsp;What I'm Chasing
+## ✦ &nbsp;What I'm Working On
 
 <br/>
 
@@ -174,45 +130,20 @@ const prabin = {
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 🌐
-### Web Development
-
-**Pure HTML · CSS · Vanilla JS.**
-Zero frameworks. Zero shortcuts.
-
-Every animation, every cursor
-effect, every canvas background
-— written from scratch.
-
-*Live: prabinyadav.dev*
+### 🌐 &nbsp;Web Development
+Building responsive, modern web applications using **HTML, CSS, and JavaScript**. Focused on clean UI and real-world functionality.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🔐
-### Cybersecurity
-
-**Ethical Hacking · Kali Linux**
-Penetration testing.
-Network security fundamentals.
-
-Learning how systems break
-so I can build unbreakable ones.
-
-*Offensive + Defensive*
+### 🐍 &nbsp;Python & Java
+Writing **practical programs** and solving problems. Building small tools and applications that actually work and solve real problems.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🤖
-### AI & Machine Learning
-
-**Neural networks · Python · Math**
-Not just using AI.
-Understanding how it actually
-works from first principles.
-
-*Curious. Always.*
+### 🗄️ &nbsp;Databases & Backend
+Learning **SQL and Firebase** for data storage and management. Connecting frontends to real cloud backends.
 
 </td>
 </tr>
@@ -230,11 +161,11 @@ works from first principles.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hell-codes&theme=transparent&hide_border=false&background=0d0015&ring=e879f9&fire=f472b6&currStreakLabel=c084fc&sideLabels=c4b5fd&dates=7c3aed&stroke=420080&currStreakNum=e879f9&sideNums=c084fc" width="96%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hell-codes&theme=transparent&hide_border=false&background=000408&ring=60a5fa&fire=f472b6&currStreakLabel=818cf8&sideLabels=93c5fd&dates=475569&stroke=0a2850&currStreakNum=60a5fa&sideNums=34d399" width="96%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hell-codes&bg_color=0d0015&color=e879f9&line=c084fc&point=f472b6&area=true&area_color=2d0050&hide_border=false&border_color=420080&title_color=e879f9&custom_title=Prabin%27s%20Contribution%20Graph" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hell-codes&bg_color=000408&color=60a5fa&line=818cf8&point=34d399&area=true&area_color=0a2850&hide_border=false&border_color=0a2850&title_color=60a5fa&custom_title=Prabin%27s%20GitHub%20Contribution%20Graph" width="96%" />
 
 </div>
 
@@ -250,12 +181,12 @@ works from first principles.
 
 <div align="center">
 
-| 🏅 Certificate | Issuer | Year |
-|:-------------|:------:|:----:|
-| Android App Development | — | 2025 |
-| IBM Certification | IBM | 2025 |
-| Java Certification | — | 2025 |
-| Python Certification | — | 2025 |
+| 🏅 Certificate | Issuer | Status |
+|:-------------|:------:|:------:|
+| Android App Development | — | ✅ Completed |
+| IBM Certification | IBM | ✅ Completed |
+| Java Certification | — | ✅ Completed |
+| Python Certification | — | ✅ Completed |
 
 </div>
 
@@ -265,7 +196,25 @@ works from first principles.
 
 <br/>
 
-## ✦ &nbsp;Find Me
+## ✦ &nbsp;Portfolio
+
+<br/>
+
+<div align="center">
+
+<a href="https://prabinyadav.github.io">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hell-codes&repo=prabinyadav.github.io&bg_color=000408&title_color=60a5fa&icon_color=34d399&text_color=93c5fd&border_color=0a2850&hide_border=false" />
+</a>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
+## ✦ &nbsp;Connect With Me
 
 <br/>
 
@@ -273,36 +222,28 @@ works from first principles.
 
 | &nbsp; | Platform | Link |
 |:------:|:--------:|:-----|
-| 🌍 | **Portfolio** | [prabinyadav.dev](https://prabinyadav.dev) |
+| 🌍 | **Portfolio** | [prabinyadav.github.io](https://prabinyadav.github.io) |
 | 📧 | **Email** | [prabin.yadav.0.0.18@gmail.com](mailto:prabin.yadav.0.0.18@gmail.com) |
 | 💼 | **LinkedIn** | [linkedin.com/in/prabinyadav](https://linkedin.com/in/prabinyadav) |
-| 🐙 | **GitHub** | [hell-codes](https://github.com/hell-codes) |
+| 🐙 | **GitHub** | [github.com/hell-codes](https://github.com/hell-codes) |
 | 📸 | **Instagram** | [@crazy.prabin\_18](https://instagram.com/crazy.prabin_18) |
 | 💬 | **WhatsApp** | [+91 72508 54792](https://wa.me/917250854792) |
-| 🎮 | **Facebook** | [prabin.yadav.739326](https://facebook.com/prabin.yadav.739326) |
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5500a8,30:420080,60:2d0050,90:1a0030,100:0d0015&height=220&section=footer&text=Code%20is%20not%20just%20logic%20%E2%80%94%20it%27s%20power%2C%20precision%2C%20and%20perspective.&fontSize=16&fontColor=e879f9&fontAlignY=48&desc=Prabin%20Yadav%20%C2%B7%201st%20Year%20CSE%20%C2%B7%20Amrita%20Vishwa%20Vidyapeetham%20%C2%B7%20Chennai&descSize=13&descColor=c084fc&descAlignY=72&animation=fadeIn" />
-
-<br/>
-
-**⭐ If this impressed you — a star on the repo means everything!**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2850,35:082040,65:051830,90:020c1a,100:000408&height=220&section=footer&text=Code%20is%20not%20just%20logic%20%E2%80%94%20it%27s%20power%2C%20precision%2C%20and%20perspective.&fontSize=16&fontColor=60a5fa&fontAlignY=48&desc=Prabin%20Yadav%20%C2%B7%201st%20Year%20CSE%20%C2%B7%20Amrita%20Vishwa%20Vidyapeetham%20%C2%B7%20Chennai&descSize=13&descColor=93c5fd&descAlignY=72&animation=fadeIn" />
 
 <br/>
 
-![Made with](https://img.shields.io/badge/Made%20with-HTML%20·%20CSS%20·%20JS-e879f9?style=flat-square&labelColor=0d0015)
+![HTML CSS JS](https://img.shields.io/badge/Made%20with-HTML%20·%20CSS%20·%20JS-60a5fa?style=flat-square&labelColor=000408)
 &nbsp;
-![Firebase](https://img.shields.io/badge/Backend-Firebase-f59e0b?style=flat-square&logo=firebase&labelColor=0d0015)
+![Firebase](https://img.shields.io/badge/Backend-Firebase-f59e0b?style=flat-square&logo=firebase&labelColor=000408)
 &nbsp;
-![Zero Deps](https://img.shields.io/badge/Dependencies-Zero-c084fc?style=flat-square&labelColor=0d0015)
+![1st Year](https://img.shields.io/badge/Year-1st%20CSE-34d399?style=flat-square&labelColor=000408)
 &nbsp;
-![1st Year](https://img.shields.io/badge/Year-1st%20CSE-818cf8?style=flat-square&labelColor=0d0015)
+[![Stars](https://img.shields.io/github/stars/hell-codes?style=flat-square&color=f472b6&labelColor=000408&logo=github&label=Stars)](https://github.com/hell-codes)
 
 </div>
