@@ -222,7 +222,7 @@ Learning **SQL and Firebase** for data storage and management. Connecting fronte
 
 | &nbsp; | Platform | Link |
 |:------:|:--------:|:-----|
-| 🌍 | **Portfolio** | [prabinyadav.github.io](https://prabinyadav.github.io) |
+| 🌍 | **Portfolio** | [prabinyadav.dev](https://prabinyadav.dev) |
 | 📧 | **Email** | [prabin.yadav.0.0.18@gmail.com](mailto:prabin.yadav.0.0.18@gmail.com) |
 | 💼 | **LinkedIn** | [linkedin.com/in/prabinyadav](https://linkedin.com/in/prabinyadav) |
 | 🐙 | **GitHub** | [github.com/hell-codes](https://github.com/hell-codes) |
