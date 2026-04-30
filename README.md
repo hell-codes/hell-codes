@@ -224,7 +224,7 @@ Learning **SQL and Firebase** — connecting frontends to real cloud databases a
 
 | &nbsp; | Platform | Link |
 |:------:|:--------:|:-----|
-| 🌍 | **Portfolio** | [prabinyadav.github.io](https://prabinyadav.github.io) |
+| 🌍 | **Portfolio** | [prabinyadav.dev](https://prabinyadav.dev) |
 | 📧 | **Email** | [prabin.yadav.0.0.18@gmail.com](mailto:prabin.yadav.0.0.18@gmail.com) |
 | 💼 | **LinkedIn** | [linkedin.com/in/prabinyadav](https://linkedin.com/in/prabinyadav) |
 | 🐙 | **GitHub** | [github.com/hell-codes](https://github.com/hell-codes) |
