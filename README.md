@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://prabinyadav.github.io"><img src="https://img.shields.io/badge/🔥_Portfolio-prabinyadav.github.io-fb923c?style=for-the-badge&labelColor=0a0000" /></a>
+<a href="https://prabinyadav.dev"><img src="https://img.shields.io/badge/🔥_Portfolio-prabinyadav.dev-fb923c?style=for-the-badge&labelColor=0a0000" /></a>
 &nbsp;
 <a href="https://github.com/prabinyadav"><img src="https://img.shields.io/badge/GitHub-prabinyadav-f97316?style=for-the-badge&logo=github&logoColor=f97316&labelColor=0a0000" /></a>
 &nbsp;
