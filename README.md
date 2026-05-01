@@ -186,7 +186,7 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <div align="center">
 
-<a href="https://prabinyadav.github.io">
+<a href="https://prabinyadav.dev">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabinyadav&repo=prabinyadav.github.io&bg_color=0a0015&title_color=c084fc&icon_color=f472b6&text_color=e879f9&border_color=3d0080&hide_border=false" />
 </a>
 
