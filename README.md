@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0015,15:10003a,35:1a0060,55:3d0080,75:600020,100:8b0000&height=340&section=header&text=Prabin%20Yadav&fontSize=86&fontColor=c084fc&fontAlignY=40&desc=Student%20Developer%20%E2%80%94%20B.Tech%20CSE%20%40%20Amrita%20Vishwa%20Vidyapeetham&descAlignY=62&descSize=17&descColor=e879f9&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050010,15:0d0035,35:180058,55:350078,70:700010,100:b00000&height=340&section=header&text=Prabin%20Yadav&fontSize=86&fontColor=c084fc&fontAlignY=40&desc=Student%20Developer%20%E2%80%94%20B.Tech%20CSE%20%40%20Amrita%20Vishwa%20Vidyapeetham&descAlignY=62&descSize=17&descColor=e879f9&animation=twinkling" />
 
 </div>
 
@@ -77,12 +77,11 @@ quote: >
 </td>
 <td width="46%" valign="top">
 
-<!-- FIX: username=hell-codes (your actual GitHub username) -->
-<img src="https://github-readme-stats.vercel.app/api?username=hell-codes&show_icons=true&count_private=true&include_all_commits=true&bg_color=0a0015&title_color=c084fc&icon_color=f472b6&text_color=e879f9&border_color=3d0080&ring_color=c084fc&hide_border=false" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=prabinyadav&show_icons=true&count_private=true&include_all_commits=true&bg_color=0a0015&title_color=c084fc&icon_color=f472b6&text_color=e879f9&border_color=3d0080&ring_color=c084fc&hide_border=false" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hell-codes&layout=compact&bg_color=0a0015&title_color=c084fc&text_color=e879f9&border_color=3d0080&hide_border=false&langs_count=6" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinyadav&layout=compact&bg_color=0a0015&title_color=c084fc&text_color=e879f9&border_color=3d0080&hide_border=false&langs_count=6" width="100%" />
 
 </td>
 </tr>
@@ -167,7 +166,6 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <div align="center">
 
-<!-- FIX: username=hell-codes -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hell-codes&theme=transparent&hide_border=false&background=0a0015&ring=c084fc&fire=fb923c&currStreakLabel=f472b6&sideLabels=e879f9&dates=7c3aed&stroke=3d0080&currStreakNum=c084fc&sideNums=f472b6" width="96%" />
 
 <br/><br/>
@@ -188,15 +186,11 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <div align="center">
 
-<!-- FIX: username=hell-codes, repo=prabinyadav.github.io — replace with your EXACT repo name on GitHub -->
 <a href="https://prabinyadav.github.io">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hell-codes&repo=prabinyadav.github.io&bg_color=0a0015&title_color=c084fc&icon_color=f472b6&text_color=e879f9&border_color=3d0080&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prabinyadav&repo=prabinyadav.github.io&bg_color=0a0015&title_color=c084fc&icon_color=f472b6&text_color=e879f9&border_color=3d0080&hide_border=false" />
 </a>
 
 <br/><br/>
-
-> 💡 **If the card above still shows an error**, go to your GitHub and check the **exact repository name** (case-sensitive). Replace `prabinyadav.github.io` in the URL above with your real repo name.
-
 </div>
 
 <br/>
@@ -246,7 +240,7 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,25:600020,50:3d0080,75:1a0060,100:0a0015&height=220&section=footer&text=Code%20is%20not%20just%20logic%20%E2%80%94%20it%27s%20power%2C%20precision%2C%20and%20perspective.&fontSize=16&fontColor=c084fc&fontAlignY=48&desc=Prabin%20Yadav%20%C2%B7%201st%20Year%20CSE%20%C2%B7%20Amrita%20Vishwa%20Vidyapeetham%20%C2%B7%20Chennai&descSize=13&descColor=e879f9&descAlignY=72&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b00000,25:700010,55:350078,80:180058,100:050010&height=220&section=footer&text=Code%20is%20not%20just%20logic%20%E2%80%94%20it%27s%20power%2C%20precision%2C%20and%20perspective.&fontSize=16&fontColor=c084fc&fontAlignY=48&desc=Prabin%20Yadav%20%C2%B7%201st%20Year%20CSE%20%C2%B7%20Amrita%20Vishwa%20Vidyapeetham%20%C2%B7%20Chennai&descSize=13&descColor=e879f9&descAlignY=72&animation=fadeIn" />
 
 <br/>
 
