@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<a href="https://prabinyadav.github.io"><img src="https://img.shields.io/badge/🚀_Portfolio-prabinyadav.github.io-c084fc?style=for-the-badge&labelColor=0a0015" /></a>
+<a href="https://prabinyadav.dev"><img src="https://img.shields.io/badge/🚀_Portfolio-prabinyadav.dev-c084fc?style=for-the-badge&labelColor=0a0015" /></a>
 &nbsp;
 <a href="https://github.com/hell-codes"><img src="https://img.shields.io/badge/GitHub-hell--codes-f472b6?style=for-the-badge&logo=github&logoColor=f472b6&labelColor=0a0015" /></a>
 &nbsp;
@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Prabin+Yadav;1st+Year+CSE+%40+Amrita+Vishwa+Vidyapeetham+%F0%9F%8E%93;Passionate+about+building+real-world+tech;10%2B+Projects+%C2%B7+6%2B+Technologies+%C2%B7+4+Certifications;%22I+don%27t+follow+paths+%E2%80%94+I+create+systems.%22+%E2%9C%A8)](https://prabinyadav.github.io)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Prabin+Yadav;1st+Year+CSE+%40+Amrita+Vishwa+Vidyapeetham+%F0%9F%8E%93;Passionate+about+building+real-world+tech;10%2B+Projects+%C2%B7+6%2B+Technologies+%C2%B7+4+Certifications;%22I+don%27t+follow+paths+%E2%80%94+I+create+systems.%22+%E2%9C%A8)](https://prabinyadav.dev)
 
 <br/>
 
@@ -50,7 +50,7 @@ university:  Amrita Vishwa Vidyapeetham
 degree:      B.Tech — Computer Science
 year:        1st Year (2025 → 2029)
 
-portfolio:   prabinyadav.github.io
+portfolio:   prabinyadav.dev
 
 stats:
   projects_built:    10+
@@ -77,11 +77,11 @@ quote: >
 </td>
 <td width="46%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prabinyadav&show_icons=true&count_private=true&include_all_commits=true&bg_color=0a0015&title_color=c084fc&icon_color=f472b6&text_color=e879f9&border_color=3d0080&ring_color=c084fc&hide_border=false" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=hell-codes&show_icons=true&count_private=true&include_all_commits=true&bg_color=0a0015&title_color=c084fc&icon_color=f472b6&text_color=e879f9&border_color=3d0080&ring_color=c084fc&hide_border=false" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinyadav&layout=compact&bg_color=0a0015&title_color=c084fc&text_color=e879f9&border_color=3d0080&hide_border=false&langs_count=6" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hell-codes&layout=compact&bg_color=0a0015&title_color=c084fc&text_color=e879f9&border_color=3d0080&hide_border=false&langs_count=6" width="100%" />
 
 </td>
 </tr>
@@ -187,7 +187,7 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 <div align="center">
 
 <a href="https://prabinyadav.dev">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prabinyadav&repo=https://github.com/hell-codes/prabinyadav.github.io&bg_color=0a0015&title_color=c084fc&icon_color=f472b6&text_color=e879f9&border_color=3d0080&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hell-codes&repo=prabinyadav.github.io&bg_color=0a0015&title_color=c084fc&icon_color=f472b6&text_color=e879f9&border_color=3d0080&hide_border=false" />
 </a>
 
 <br/><br/>
@@ -228,7 +228,7 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 | &nbsp; | Platform | Link |
 |:------:|:--------:|:-----|
-| 🌍 | **Portfolio** | [prabinyadav.github.io](https://prabinyadav.github.io) |
+| 🌍 | **Portfolio** | [prabinyadav.dev](https://prabinyadav.dev) |
 | 📧 | **Email** | [prabin.yadav.0.0.18@gmail.com](mailto:prabin.yadav.0.0.18@gmail.com) |
 | 💼 | **LinkedIn** | [linkedin.com/in/prabinyadav](https://linkedin.com/in/prabinyadav) |
 | 🐙 | **GitHub** | [github.com/hell-codes](https://github.com/hell-codes) |
