@@ -1,15 +1,9 @@
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║          ANIMATED HEADER                ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
-
+<!-- ANIMATED HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050010,20:0d0035,40:1a0058,60:350078,80:700010,100:b00000&height=380&section=header&text=PRABIN%20YADAV&fontSize=96&fontColor=c084fc&fontAlignY=40&desc=Student%20Developer%20%E2%80%94%20B.Tech%20CSE%20%40%20Amrita%20Vishwa%20Vidyapeetham&descAlignY=62&descSize=18&descColor=e879f9&animation=twinkling&stroke=9333ea&strokeWidth=2"/>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║              BADGES ROW                 ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
-
+<!-- BADGES -->
 <div align="center">
 
 <a href="https://prabinyadav.dev"><img src="https://img.shields.io/badge/🚀_Portfolio-prabinyadav.dev-c084fc?style=for-the-badge&labelColor=0a0015"/></a>
@@ -27,7 +21,6 @@
 
 <br/><br/>
 
-<!-- COUNTER BADGES -->
 <a href="https://github.com/hell-codes"><img src="https://komarev.com/ghpvc/?username=hell-codes&color=c084fc&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true"/></a>
 &nbsp;
 <a href="https://github.com/hell-codes?tab=followers"><img src="https://img.shields.io/github/followers/hell-codes?style=for-the-badge&color=f472b6&labelColor=0a0015&logo=github&label=Followers"/></a>
@@ -42,14 +35,11 @@
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║             ABOUT ME                    ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
-
 ## 🚀 &nbsp;About Me
 
 <br/>
 
+<!-- LEFT: YAML card | RIGHT: Stats using alternative working API -->
 <table>
 <tr>
 <td width="54%" valign="top">
@@ -89,11 +79,12 @@ quote: >
 </td>
 <td width="46%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hell-codes&show_icons=true&count_private=true&include_all_commits=true&bg_color=0a0015&title_color=c084fc&icon_color=f472b6&text_color=e879f9&border_color=3d0080&ring_color=c084fc&hide_border=false&cache_seconds=1800" width="100%"/>
+<!-- Using alternative vercel deployment — more reliable than default -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hell-codes&show_icons=true&count_private=true&include_all_commits=true&bg_color=0a0015&title_color=c084fc&icon_color=f472b6&text_color=e879f9&border_color=3d0080&ring_color=c084fc&hide_border=false" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hell-codes&layout=compact&bg_color=0a0015&title_color=c084fc&text_color=e879f9&border_color=3d0080&hide_border=false&langs_count=6&cache_seconds=1800" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hell-codes&layout=compact&bg_color=0a0015&title_color=c084fc&text_color=e879f9&border_color=3d0080&hide_border=false&langs_count=6" width="100%"/>
 
 </td>
 </tr>
@@ -104,10 +95,6 @@ quote: >
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <br/>
-
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║             TECH STACK                  ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
 
 ## 🚀 &nbsp;Tech Stack
 
@@ -143,10 +130,6 @@ quote: >
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║           WHAT I'M WORKING ON           ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
-
 ## 🚀 &nbsp;What I'm Working On
 
 <br/>
@@ -155,19 +138,19 @@ quote: >
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 🌐 &nbsp;Web Development
-Building modern, responsive web applications using **HTML, CSS, JavaScript**. Clean UI with real functionality and Firebase backend.
+### 🌐 &nbsp;Web Dev
+Building modern, responsive web apps using **HTML, CSS, JavaScript** with Firebase backend.
 
 </td>
 <td width="33%" align="center" valign="top">
 
 ### 🐍 &nbsp;Python & Java
-Writing practical programs and solving real-world problems. OOP concepts, data structures, algorithms.
+Writing practical programs and solving real-world problems. OOP, data structures, algorithms.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🗄️ &nbsp;Backend & Databases
+### 🗄️ &nbsp;Databases
 Learning **SQL and Firebase** — connecting interfaces to real cloud data and backend systems.
 
 </td>
@@ -179,10 +162,6 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <br/>
-
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║           GITHUB ACTIVITY               ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
 
 ## 🚀 &nbsp;GitHub Activity
 
@@ -204,16 +183,13 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║          PORTFOLIO PROJECT               ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
-
 ## 🚀 &nbsp;Portfolio
 
 <br/>
 
 <div align="center">
 
+<!-- Badges instead of broken pin card — always works -->
 <a href="https://prabinyadav.dev">
 <img src="https://img.shields.io/badge/🌐_LIVE_SITE-prabinyadav.dev-c084fc?style=for-the-badge&labelColor=0a0015&color=c084fc"/>
 </a>
@@ -224,14 +200,16 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <br/><br/>
 
+<!-- Portfolio image using raw GitHub URL from the actual portfolio repo -->
 <a href="https://prabinyadav.dev">
-<img width="92%" src="images/portfolio.png" alt="prabinyadav.dev — Portfolio Preview"/>
+<img width="92%" src="https://raw.githubusercontent.com/hell-codes/prabinyadav-portfolio/main/images/portfolio.png" alt="prabinyadav.dev — Portfolio Preview"/>
 </a>
 <br/>
 <sub><i>↑ Click to visit <b>prabinyadav.dev</b></i></sub>
 
 <br/><br/>
 
+<!-- Quick stat pills -->
 <table>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/PAGES-6%20Public-c084fc?style=flat-square&labelColor=0a0015"/><br/><sub>+ Admin Panel</sub></td>
@@ -248,10 +226,6 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <br/>
-
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║           CERTIFICATIONS                ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
 
 ## 🚀 &nbsp;Certifications
 
@@ -274,10 +248,6 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║              CONTACT                    ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
-
 ## 🚀 &nbsp;Connect With Me
 
 <br/>
@@ -297,10 +267,7 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════╗ -->
-<!-- ║          ANIMATED FOOTER                ║ -->
-<!-- ╚══════════════════════════════════════════╝ -->
-
+<!-- ANIMATED FOOTER -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b00000,25:700010,55:350078,80:1a0058,100:050010&height=240&section=footer&text=Code%20is%20not%20just%20logic%20%E2%80%94%20it%27s%20power%2C%20precision%2C%20and%20perspective.&fontSize=16&fontColor=c084fc&fontAlignY=48&desc=Prabin%20Yadav%20%C2%B7%201st%20Year%20CSE%20%C2%B7%20Amrita%20Vishwa%20Vidyapeetham%20%C2%B7%20Chennai&descSize=13&descColor=e879f9&descAlignY=72&animation=fadeIn"/>
