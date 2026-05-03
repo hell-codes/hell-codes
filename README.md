@@ -187,27 +187,26 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <div align="center">
 
+<!-- LIVE + SOURCE BADGES -->
 <a href="https://prabinyadav.dev">
 <img src="https://img.shields.io/badge/🌐_LIVE_SITE-prabinyadav.dev-c084fc?style=for-the-badge&labelColor=0a0015&color=c084fc"/>
 </a>
 &nbsp;
-<a href="https://github.com/hell-codes/prabinyadav-portfolio">
-<img src="https://img.shields.io/badge/📁_SOURCE_CODE-prabinyadav--portfolio-f472b6?style=for-the-badge&logo=github&logoColor=f472b6&labelColor=0a0015"/>
+<a href="https://github.com/hell-codes/prabinyadav.github.io">
+<img src="https://img.shields.io/badge/📁_SOURCE_CODE-prabinyadav.github.io-f472b6?style=for-the-badge&logo=github&logoColor=f472b6&labelColor=0a0015"/>
 </a>
 
 <br/><br/>
 
-<!--
-  ════════════════════════════════════════════════════
-  HOW TO FIX THE PORTFOLIO SCREENSHOT:
+<!-- REPO PIN CARD — correct repo name confirmed: prabinyadav.github.io -->
+<a href="https://github.com/hell-codes/prabinyadav.github.io">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hell-codes&repo=prabinyadav.github.io&bg_color=0a0015&title_color=c084fc&icon_color=f472b6&text_color=e879f9&border_color=3d0080&hide_border=false"/>
+</a>
 
-  1. Take a screenshot of prabinyadav.dev
-  2. Save it as:  preview.png
-  3. Upload it to THIS repo (hell-codes/hell-codes)
-     → just drag and drop into the repo root on GitHub
-  4. The image below will then show automatically ✅
-  ════════════════════════════════════════════════════
--->
+<br/><br/>
+
+<!-- PORTFOLIO SCREENSHOT -->
+<!-- Upload preview.png to this repo root to show it here -->
 <a href="https://prabinyadav.dev">
 <img width="92%" src="preview.png" alt="prabinyadav.dev — Portfolio Preview"/>
 </a>
@@ -216,6 +215,7 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <br/><br/>
 
+<!-- QUICK STATS ROW -->
 <table>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/PAGES-6%20Public-c084fc?style=flat-square&labelColor=0a0015"/><br/><sub>+ Admin Panel</sub></td>
