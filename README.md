@@ -39,7 +39,6 @@
 
 <br/>
 
-<!-- LEFT: YAML card | RIGHT: Stats using alternative working API -->
 <table>
 <tr>
 <td width="54%" valign="top">
@@ -79,7 +78,6 @@ quote: >
 </td>
 <td width="46%" valign="top">
 
-<!-- Using alternative vercel deployment — more reliable than default -->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hell-codes&show_icons=true&count_private=true&include_all_commits=true&bg_color=0a0015&title_color=c084fc&icon_color=f472b6&text_color=e879f9&border_color=3d0080&ring_color=c084fc&hide_border=false" width="100%"/>
 
 <br/>
@@ -189,7 +187,6 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <div align="center">
 
-<!-- Badges instead of broken pin card — always works -->
 <a href="https://prabinyadav.dev">
 <img src="https://img.shields.io/badge/🌐_LIVE_SITE-prabinyadav.dev-c084fc?style=for-the-badge&labelColor=0a0015&color=c084fc"/>
 </a>
@@ -200,16 +197,25 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <br/><br/>
 
-<!-- Portfolio image using raw GitHub URL from the actual portfolio repo -->
+<!--
+  ════════════════════════════════════════════════════
+  HOW TO FIX THE PORTFOLIO SCREENSHOT:
+
+  1. Take a screenshot of prabinyadav.dev
+  2. Save it as:  preview.png
+  3. Upload it to THIS repo (hell-codes/hell-codes)
+     → just drag and drop into the repo root on GitHub
+  4. The image below will then show automatically ✅
+  ════════════════════════════════════════════════════
+-->
 <a href="https://prabinyadav.dev">
-<img width="92%" src="https://raw.githubusercontent.com/hell-codes/prabinyadav-portfolio/main/images/portfolio.png" alt="prabinyadav.dev — Portfolio Preview"/>
+<img width="92%" src="preview.png" alt="prabinyadav.dev — Portfolio Preview"/>
 </a>
 <br/>
 <sub><i>↑ Click to visit <b>prabinyadav.dev</b></i></sub>
 
 <br/><br/>
 
-<!-- Quick stat pills -->
 <table>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/PAGES-6%20Public-c084fc?style=flat-square&labelColor=0a0015"/><br/><sub>+ Admin Panel</sub></td>
