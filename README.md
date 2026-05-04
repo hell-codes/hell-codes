@@ -241,7 +241,7 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 | 🏅 Certificate | Issuer | Status |
 |:--------------|:------:|:------:|
-| Android App Development | — | ✅ Completed |
+| Android App Development | Udemy | ✅ Completed |
 | IBM Certification | IBM | ✅ Completed |
 | Java Certification | — | ✅ Completed |
 | Python Certification | — | ✅ Completed |
