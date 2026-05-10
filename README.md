@@ -208,7 +208,7 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 <!-- PORTFOLIO SCREENSHOT -->
 <!-- Upload preview.png to this repo root to show it here -->
 <a href="https://prabinyadav.dev">
-<img width="92%" src="preview.png" alt="prabinyadav.dev — Portfolio Preview"/>
+<img width="92%" src="portfolio.png" alt="prabinyadav.dev — Portfolio Preview"/>
 </a>
 <br/>
 <sub><i>↑ Click to visit <b>prabinyadav.dev</b></i></sub>
