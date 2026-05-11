@@ -49,7 +49,7 @@ alias:       hell-codes
 location:    Chennai, India 🇮🇳
 university:  Amrita Vishwa Vidyapeetham
 degree:      B.Tech — Computer Science
-year:        1st Year (2025 → 2029)
+year:        2nd Year (2025 → 2029)
 
 portfolio:   prabinyadav.dev
 
