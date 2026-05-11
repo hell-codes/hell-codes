@@ -17,7 +17,7 @@
 <br/><br/>
 
 <!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Prabin+Yadav;1st+Year+CSE+%40+Amrita+Vishwa+Vidyapeetham+%F0%9F%8E%93;Passionate+about+building+real-world+tech;10%2B+Projects+%C2%B7+6%2B+Technologies+%C2%B7+4+Certifications;%22I+don%27t+follow+paths+%E2%80%94+I+create+systems.%22+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Prabin+Yadav;2nd+Year+CSE+%40+Amrita+Vishwa+Vidyapeetham+%F0%9F%8E%93;Passionate+about+building+real-world+tech;10%2B+Projects+%C2%B7+6%2B+Technologies+%C2%B7+4+Certifications;%22I+don%27t+follow+paths+%E2%80%94+I+create+systems.%22+%E2%9C%A8"/>
 
 <br/><br/>
 
