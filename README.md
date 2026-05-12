@@ -276,7 +276,7 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 <!-- ANIMATED FOOTER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b00000,25:700010,55:350078,80:1a0058,100:050010&height=240&section=footer&text=Code%20is%20not%20just%20logic%20%E2%80%94%20it%27s%20power%2C%20precision%2C%20and%20perspective.&fontSize=16&fontColor=c084fc&fontAlignY=48&desc=Prabin%20Yadav%20%C2%B7%201st%20Year%20CSE%20%C2%B7%20Amrita%20Vishwa%20Vidyapeetham%20%C2%B7%20Chennai&descSize=13&descColor=e879f9&descAlignY=72&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b00000,25:700010,55:350078,80:1a0058,100:050010&height=240&section=footer&text=Code%20is%20not%20just%20logic%20%E2%80%94%20it%27s%20power%2C%20precision%2C%20and%20perspective.&fontSize=16&fontColor=c084fc&fontAlignY=48&desc=Prabin%20Yadav%20%C2%B7%202nd%20Year%20CSE%20%C2%B7%20Amrita%20Vishwa%20Vidyapeetham%20%C2%B7%20Chennai&descSize=13&descColor=e879f9&descAlignY=72&animation=fadeIn"/>
 
 <br/>
 
