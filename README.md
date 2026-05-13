@@ -56,7 +56,7 @@ portfolio:   prabinyadav.dev
 stats:
   projects_built:    10+
   technologies:       6+
-  certifications:      4
+  certifications:     4
 
 skills:
   HTML_CSS:   ████████████████░░░░  90%
