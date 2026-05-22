@@ -1,7 +1,9 @@
+<!-- ANIMATED HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:1a0000,45:8b0000,70:cc0000,90:b8860b,100:ffd700&height=380&section=header&text=PRABIN%20YADAV&fontSize=96&fontColor=ffd700&fontAlignY=40&desc=Student%20Developer%20%E2%80%94%20B.Tech%20CSE%20%40%20Amrita%20Vishwa%20Vidyapeetham&descAlignY=62&descSize=18&descColor=ffb700&animation=twinkling&stroke=cc0000&strokeWidth=2"/>
 
 <br/>
 
+<!-- BADGES -->
 <div align="center">
 
 <a href="https://prabinyadav.dev"><img src="https://img.shields.io/badge/🚀_Portfolio-prabinyadav.dev-ffd700?style=for-the-badge&labelColor=0d0000"/></a>
@@ -165,7 +167,8 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=hell-codes&theme=transparent&hide_border=false&background=0d0000&ring=ffd700&fire=cc0000&currStreakLabel=ffd700&sideLabels=ffb700&dates=8b0000&stroke=8b0000&currStreakNum=ffd700&sideNums=cc0000" width="96%"/>
+<!-- STREAK STATS — replaced broken demolab URL with working alternative -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hell-codes&theme=dark&hide_border=false&background=0d0000&ring=ffd700&fire=cc0000&currStreakLabel=ffd700&sideLabels=ffb700&dates=8b0000&stroke=8b0000&currStreakNum=ffd700&sideNums=cc0000" width="96%"/>
 
 <br/><br/>
 
@@ -281,7 +284,7 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 &nbsp;
 ![Firebase](https://img.shields.io/badge/Backend-Firebase-cc0000?style=flat-square&logo=firebase&labelColor=0d0000)
 &nbsp;
-![1st Year](https://img.shields.io/badge/Year-1st%20CSE-b8860b?style=flat-square&labelColor=0d0000)
+![2nd Year](https://img.shields.io/badge/Year-2nd%20CSE-b8860b?style=flat-square&labelColor=0d0000)
 &nbsp;
 ![License](https://img.shields.io/badge/License-MIT-ff4444?style=flat-square&labelColor=0d0000)
 
