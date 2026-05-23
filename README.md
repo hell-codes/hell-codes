@@ -1,5 +1,5 @@
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:1a0000,45:8b0000,70:cc0000,90:b8860b,100:ffd700&height=380&section=header&text=PRABIN%20YADAV&fontSize=96&fontColor=ffd700&fontAlignY=40&desc=Student%20Developer%20%E2%80%94%20B.Tech%20CSE%20%40%20Amrita%20Vishwa%20Vidyapeetham&descAlignY=62&descSize=18&descColor=ffb700&animation=twinkling&stroke=cc0000&strokeWidth=2"/>
+<img width="100%" src="header-banner.svg" alt="Prabin Yadav — Student Developer | B.Tech CSE @ Amrita Vishwa Vidyapeetham"/>
 
 <br/>
 
