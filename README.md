@@ -1,8 +1,6 @@
-
 <img width="100%" src="header-banner.svg" alt="Prabin Yadav — Student Developer | B.Tech CSE @ Amrita Vishwa Vidyapeetham"/>
 
 <br/>
-
 
 <div align="center">
 
@@ -15,7 +13,6 @@
 <a href="mailto:prabin.yadav.0.0.18@gmail.com"><img src="https://img.shields.io/badge/Email-prabin.yadav-ff4444?style=for-the-badge&logo=gmail&logoColor=ff4444&labelColor=0d0000"/></a>
 
 <br/><br/>
-
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2800&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Prabin+Yadav;2nd+Year+CSE+%40+Amrita+Vishwa+Vidyapeetham+%F0%9F%8E%93;Passionate+about+building+real-world+tech;10%2B+Projects+%C2%B7+6%2B+Technologies+%C2%B7+4+Certifications;%22I+don%27t+follow+paths+%E2%80%94+I+create+systems.%22+%E2%9C%A8"/>
 
@@ -167,7 +164,6 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <div align="center">
 
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hell-codes&theme=dark&hide_border=false&background=0d0000&ring=ffd700&fire=cc0000&currStreakLabel=ffd700&sideLabels=ffb700&dates=8b0000&stroke=8b0000&currStreakNum=ffd700&sideNums=cc0000" width="96%"/>
 
 <br/><br/>
@@ -188,7 +184,6 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <div align="center">
 
-
 <a href="https://prabinyadav.dev">
 <img src="https://img.shields.io/badge/🌐_LIVE_SITE-prabinyadav.dev-ffd700?style=for-the-badge&labelColor=0d0000&color=ffd700"/>
 </a>
@@ -198,7 +193,6 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 </a>
 
 <br/><br/>
-
 
 <a href="https://github.com/hell-codes/prabinyadav.github.io">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hell-codes&repo=prabinyadav.github.io&bg_color=0d0000&title_color=ffd700&icon_color=cc0000&text_color=ffb700&border_color=8b0000&hide_border=false"/>
@@ -214,7 +208,6 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 <sub><i>↑ Click to visit <b>prabinyadav.dev</b></i></sub>
 
 <br/><br/>
-
 
 <table>
 <tr>
@@ -272,7 +265,6 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 </div>
 
 <br/>
-
 
 <div align="center">
 
