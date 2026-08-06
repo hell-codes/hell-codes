@@ -25,7 +25,6 @@
 <a href="https://github.com/hell-codes"><img src="https://img.shields.io/github/stars/hell-codes?style=for-the-badge&color=b8860b&labelColor=0d0000&logo=github&label=Stars"/></a>
 
 </div>
-
 <br/>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
