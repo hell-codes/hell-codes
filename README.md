@@ -170,7 +170,6 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hell-codes&bg_color=0d0000&color=ffd700&line=cc0000&point=ffb700&area=true&area_color=8b0000&hide_border=false&border_color=8b0000&title_color=ffd700&custom_title=Prabin%27s%20GitHub%20Contribution%20Graph" width="96%"/>
 
 </div>
-
 <br/>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
