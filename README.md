@@ -78,7 +78,7 @@ quote: >
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hell-codes&layout=compact&bg_color=0d0000&title_color=ffd700&text_color=ffb700&border_color=8b0000&hide_border=false&langs_count=6" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hell-codes&layout=compact&bg_color=0d0000&title_color=ffd700&text_color=ffb700&border_color=8b0000&hide_border=false&langs_count=8" width="100%"/>
 
 </td>
 </tr>
@@ -163,7 +163,7 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hell-codes&theme=dark&hide_border=false&background=0d0000&ring=ffd700&fire=cc0000&currStreakLabel=ffd700&sideLabels=ffb700&dates=8b0000&stroke=8b0000&currStreakNum=ffd700&sideNums=cc0000" width="96%"/>
+<img src="https://streak-stats.demolab.com?user=hell-codes&theme=dark&hide_border=false&background=0d0000&ring=ffd700&fire=cc0000&currStreakLabel=ffd700&sideLabels=ffb700&dates=8b0000&stroke=8b0000&currStreakNum=ffd700&sideNums=cc0000" width="96%"/>
 
 <br/><br/>
 
