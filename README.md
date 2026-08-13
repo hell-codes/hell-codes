@@ -59,6 +59,8 @@ skills:
   JavaScript: ███████████████░░░░░░  78%
   Python:     ███████████████░░░░░░  75%
   Java:       ██████████████░░░░░░░  70%
+  C:          █████████████░░░░░░░░  68%
+  C++:        ████████████░░░░░░░░░  60%
   SQL:        █████████████░░░░░░░░  65%
   Git_GitHub: ███████████████░░░░░░  72%
 
@@ -74,11 +76,11 @@ quote: >
 </td>
 <td width="46%" valign="top">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hell-codes&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d0000&title_color=ffd700&icon_color=cc0000&text_color=ffb700&border_color=8b0000&ring_color=ffd700&hide_border=false" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hell-codes&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d0000&title_color=ffd700&icon_color=cc0000&text_color=ffb700&border_color=8b0000&ring_color=ffd700&hide_border=false" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hell-codes&layout=compact&bg_color=0d0000&title_color=ffd700&text_color=ffb700&border_color=8b0000&hide_border=false&langs_count=6" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hell-codes&layout=compact&bg_color=0d0000&title_color=ffd700&text_color=ffb700&border_color=8b0000&hide_border=false&langs_count=8" width="100%"/>
 
 </td>
 </tr>
@@ -96,7 +98,7 @@ quote: >
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,firebase,git,github,linux,vscode,mysql&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,firebase,git,github,linux,vscode,mysql&theme=dark&perline=7"/>
 
 <br/><br/>
 
@@ -106,6 +108,7 @@ quote: >
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0000)
 ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d0000)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0d0000)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d0000)
 
 <br/>
 
@@ -163,7 +166,7 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hell-codes&theme=dark&hide_border=false&background=0d0000&ring=ffd700&fire=cc0000&currStreakLabel=ffd700&sideLabels=ffb700&dates=8b0000&stroke=8b0000&currStreakNum=ffd700&sideNums=cc0000" width="96%"/>
+<img src="https://streak-stats.demolab.com?user=hell-codes&theme=dark&hide_border=false&background=0d0000&ring=ffd700&fire=cc0000&currStreakLabel=ffd700&sideLabels=ffb700&dates=8b0000&stroke=8b0000&currStreakNum=ffd700&sideNums=cc0000" width="96%"/>
 
 <br/><br/>
 
@@ -193,7 +196,7 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 <br/><br/>
 
 <a href="https://github.com/hell-codes/prabinyadav.github.io">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hell-codes&repo=prabinyadav.github.io&bg_color=0d0000&title_color=ffd700&icon_color=cc0000&text_color=ffb700&border_color=8b0000&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hell-codes&repo=prabinyadav.github.io&bg_color=0d0000&title_color=ffd700&icon_color=cc0000&text_color=ffb700&border_color=8b0000&hide_border=false"/>
 </a>
 
 <br/><br/>
