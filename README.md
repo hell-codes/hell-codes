@@ -172,11 +172,6 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <br/><br/>
 
-<!-- Streak stats: current streak, longest streak, total contributions -->
-<img src="https://streak-stats.demolab.com?user=hell-codes&theme=dark&hide_border=false&background=0d0000&ring=ffd700&fire=cc0000&currStreakLabel=ffd700&sideLabels=ffb700&dates=8b0000&stroke=8b0000&currStreakNum=ffd700&sideNums=cc0000&cache_seconds=1800" width="96%"/>
-
-<br/><br/>
-
 <!-- Daily contribution heat-calendar -->
 <img src="https://ghchart.rshah.org/cc0000/hell-codes" width="96%" alt="Prabin's GitHub Contribution Graph"/>
 
