@@ -76,11 +76,11 @@ quote: >
 </td>
 <td width="46%" valign="top">
 
-<img src="https://github-stats-extended.vercel.app/api?username=hell-codes&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d0000&title_color=ffd700&icon_color=cc0000&text_color=ffb700&border_color=8b0000&ring_color=ffd700&hide_border=false&cache_seconds=1800" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=hell-codes&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d0000&title_color=ffd700&icon_color=cc0000&text_color=ffb700&border_color=8b0000&ring_color=ffd700&hide_border=false" width="100%"/>
 
 <br/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hell-codes&layout=compact&bg_color=0d0000&title_color=ffd700&text_color=ffb700&border_color=8b0000&hide_border=false&langs_count=8&cache_seconds=1800" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hell-codes&layout=compact&bg_color=0d0000&title_color=ffd700&text_color=ffb700&border_color=8b0000&hide_border=false&langs_count=8" width="100%"/>
 
 </td>
 </tr>
@@ -98,14 +98,13 @@ quote: >
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,firebase,git,github,linux,vscode,mysql&theme=dark&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,firebase,git,github,linux,vscode,mysql&theme=dark&perline=7"/>
 
 <br/><br/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0000)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d0000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d0000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d0000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0000)
 ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d0000)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0d0000)
@@ -167,13 +166,11 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <div align="center">
 
-<!-- Pulse-style commit activity graph (area/line chart of commits over time) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hell-codes&bg_color=0d0000&color=ffd700&line=cc0000&point=ffd700&area=true&area_color=8b0000&hide_border=true&custom_title=Commit%20Pulse&title_color=ffd700&text_color=ffb700" width="96%"/>
+<img src="https://streak-stats.demolab.com?user=hell-codes&theme=dark&hide_border=false&background=0d0000&ring=ffd700&fire=cc0000&currStreakLabel=ffd700&sideLabels=ffb700&dates=8b0000&stroke=8b0000&currStreakNum=ffd700&sideNums=cc0000" width="96%"/>
 
 <br/><br/>
 
-<!-- Daily contribution heat-calendar -->
-<img src="https://ghchart.rshah.org/cc0000/hell-codes" width="96%" alt="Prabin's GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hell-codes&bg_color=0d0000&color=ffd700&line=cc0000&point=ffb700&area=true&area_color=8b0000&hide_border=false&border_color=8b0000&title_color=ffd700&custom_title=Prabin%27s%20GitHub%20Contribution%20Graph" width="96%"/>
 
 </div>
 <br/>
@@ -199,7 +196,7 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 <br/><br/>
 
 <a href="https://github.com/hell-codes/prabinyadav.github.io">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=hell-codes&repo=prabinyadav.github.io&bg_color=0d0000&title_color=ffd700&icon_color=cc0000&text_color=ffb700&border_color=8b0000&hide_border=false&cache_seconds=1800"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=hell-codes&repo=prabinyadav.github.io&bg_color=0d0000&title_color=ffd700&icon_color=cc0000&text_color=ffb700&border_color=8b0000&hide_border=false"/>
 </a>
 
 <br/><br/>
