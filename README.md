@@ -167,10 +167,17 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 
 <div align="center">
 
+<!-- Pulse-style commit activity graph (area/line chart of commits over time) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hell-codes&bg_color=0d0000&color=ffd700&line=cc0000&point=ffd700&area=true&area_color=8b0000&hide_border=true&custom_title=Commit%20Pulse&title_color=ffd700&text_color=ffb700" width="96%"/>
+
+<br/><br/>
+
+<!-- Streak stats: current streak, longest streak, total contributions -->
 <img src="https://streak-stats.demolab.com?user=hell-codes&theme=dark&hide_border=false&background=0d0000&ring=ffd700&fire=cc0000&currStreakLabel=ffd700&sideLabels=ffb700&dates=8b0000&stroke=8b0000&currStreakNum=ffd700&sideNums=cc0000&cache_seconds=1800" width="96%"/>
 
 <br/><br/>
 
+<!-- Daily contribution heat-calendar -->
 <img src="https://ghchart.rshah.org/cc0000/hell-codes" width="96%" alt="Prabin's GitHub Contribution Graph"/>
 
 </div>
