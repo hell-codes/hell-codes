@@ -11,9 +11,7 @@
 <a href="https://linkedin.com/in/prabinyadav"><img src="https://img.shields.io/badge/LinkedIn-prabinyadav-b8860b?style=for-the-badge&logo=linkedin&logoColor=b8860b&labelColor=0d0000"/></a>
 &nbsp;
 <a href="mailto:prabin.yadav.0.0.18@gmail.com"><img src="https://img.shields.io/badge/Email-prabin.yadav-ff4444?style=for-the-badge&logo=gmail&logoColor=ff4444&labelColor=0d0000"/></a>
-
 <br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2800&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Prabin+Yadav;2nd+Year+CSE+%40+Amrita+Vishwa+Vidyapeetham+%F0%9F%8E%93;Passionate+about+building+real-world+tech;10%2B+Projects+%C2%B7+6%2B+Technologies+%C2%B7+4+Certifications;%22I+don%27t+follow+paths+%E2%80%94+I+create+systems.%22+%E2%9C%A8"/>
 
 <br/><br/>
@@ -28,7 +26,6 @@
 <br/>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 <br/>
 
 ## 🏏 &nbsp;About Me
