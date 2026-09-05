@@ -18,10 +18,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: >-
-            username=hell-codes&show_icons=true&count_private=true&include_all_commits=true&
-            bg_color=0d0000&title_color=ffd700&icon_color=cc0000&text_color=ffb700&
-            border_color=8b0000&ring_color=ffd700&hide_border=false
+          options: "username=hell-codes&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d0000&title_color=ffd700&icon_color=cc0000&text_color=ffb700&border_color=8b0000&ring_color=ffd700&hide_border=false"
           path: profile/stats.svg
           token: ${{ secrets.PROFILE_TOKEN }}
 
@@ -29,10 +26,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: >-
-            username=hell-codes&layout=compact&langs_count=8&
-            bg_color=0d0000&title_color=ffd700&text_color=ffb700&
-            border_color=8b0000&hide_border=false
+          options: "username=hell-codes&layout=compact&langs_count=8&bg_color=0d0000&title_color=ffd700&text_color=ffb700&border_color=8b0000&hide_border=false"
           path: profile/top-langs.svg
           token: ${{ secrets.PROFILE_TOKEN }}
 
@@ -40,10 +34,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: >-
-            username=hell-codes&repo=prabinyadav.github.io&
-            bg_color=0d0000&title_color=ffd700&icon_color=cc0000&text_color=ffb700&
-            border_color=8b0000&hide_border=false
+          options: "username=hell-codes&repo=prabinyadav.github.io&bg_color=0d0000&title_color=ffd700&icon_color=cc0000&text_color=ffb700&border_color=8b0000&hide_border=false"
           path: profile/pin.svg
           token: ${{ secrets.PROFILE_TOKEN }}
 
