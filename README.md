@@ -74,11 +74,11 @@ quote: >
 </td>
 <td width="46%" valign="top">
 
-<img src="./profile/stats.svg" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=hell-codes&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d0000&title_color=ffd700&icon_color=cc0000&text_color=ffb700&border_color=8b0000&ring_color=ffd700&hide_border=false" width="100%"/>
 
 <br/>
 
-<img src="./profile/top-langs.svg" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hell-codes&layout=compact&bg_color=0d0000&title_color=ffd700&text_color=ffb700&border_color=8b0000&hide_border=false&langs_count=8" width="100%"/>
 
 </td>
 </tr>
@@ -195,7 +195,7 @@ Learning **SQL and Firebase** — connecting interfaces to real cloud data and b
 <br/><br/>
 
 <a href="https://github.com/hell-codes/prabinyadav.github.io">
-<img src="./profile/pin.svg"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=hell-codes&repo=prabinyadav.github.io&bg_color=0d0000&title_color=ffd700&icon_color=cc0000&text_color=ffb700&border_color=8b0000&hide_border=false"/>
 </a>
 
 <br/><br/>
